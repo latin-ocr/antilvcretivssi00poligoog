@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./antilvcretivssi00poligoog_0148.png"; bbox 0 0 2678 4476; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 107 1018 1325 1587">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 121 1018 1135 1577">
+     <span class='ocr_line' id='line_1_1' title="bbox 183 1018 1092 1231; baseline 0.002 -1.301"><span class='ocrx_word' id='word_1_1' title='bbox 183 1018 1092 1231; x_wconf 85' lang='lat' dir='ltr'>ANTI</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 107 1354 1325 1587; baseline -0.006 -9.917"><span class='ocrx_word' id='word_1_2' title='bbox 107 1354 1325 1587; x_wconf 87' lang='lat' dir='ltr'>LUCRETIUS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 108 1682 1145 2089">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 131 1682 1102 2012">
+     <span class='ocr_line' id='line_1_3' title="bbox 131 1682 1102 1809; baseline -0.004 -34"><span class='ocrx_word' id='word_1_3' title='bbox 131 1753 134 1757; x_wconf 85' lang='lat'>-</span> <span class='ocrx_word' id='word_1_4' title='bbox 484 1684 750 1809; x_wconf 84' lang='lat' dir='ltr'><strong><em>SIVE</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 854 1775 856 1779; x_wconf 73' lang='grc'>,</span> <span class='ocrx_word' id='word_1_6' title='bbox 1078 1682 1102 1703; x_wconf 79' lang='grc'>”</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 108 1796 1145 2089; baseline 0.004 -81.414"><span class='ocrx_word' id='word_1_7' title='bbox 108 1888 359 2015; x_wconf 80' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_8' title='bbox 356 1796 542 2009; x_wconf 88' lang='lat' dir='ltr'>DEO</span> <span class='ocrx_word' id='word_1_9' title='bbox 583 1888 684 2007; x_wconf 83' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_10' title='bbox 727 1867 1145 2089; x_wconf 89' lang='lat' dir='ltr'>NATURA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 109 2104 1300 2849">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 86 2104 1323 2849">
+     <span class='ocr_line' id='line_1_5' title="bbox 824 2104 1300 2214; baseline 0 -47"><span class='ocrx_word' id='word_1_11' title='bbox 824 2104 868 2214; x_wconf 68' lang='lat' dir='ltr'>M</span> <span class='ocrx_word' id='word_1_12' title='bbox 1243 2150 1300 2179; x_wconf 62' lang='lat'>„</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 109 2336 1218 2525; baseline -0.002 -41.916"><span class='ocrx_word' id='word_1_13' title='bbox 109 2336 1218 2525; x_wconf 81' lang='lat' dir='ltr'>ADQUINTIUM</span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 263 2666 1196 2849; baseline 0.004 -71.285"><span class='ocrx_word' id='word_1_14' title='bbox 263 2666 563 2783; x_wconf 74' lang='lat' dir='ltr'><em>LIBER</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 608 2666 977 2799; x_wconf 71' lang='lat' dir='ltr'><em>TERTIUS</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 1124 2751 1196 2849; x_wconf 68' lang='lat'>.;‚</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1344 4476">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1344 4476">
+     <span class='ocr_line' id='line_1_8' title="bbox 0 0 1344 4476; baseline 0 0"><span class='ocrx_word' id='word_1_17' title='bbox 0 0 1344 4476; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

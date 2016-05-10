@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./antilvcretivssi00poligoog_0188.png"; bbox 0 0 2678 4476; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 33 1424 1160 2146">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 33 1424 1201 2094">
+     <span class='ocr_line' id='line_1_1' title="bbox 33 1424 1160 1850; baseline -0.011 5.404"><span class='ocrx_word' id='word_1_1' title='bbox 33 1424 1160 1850; x_wconf 47' lang='lat' dir='ltr'>LUCRMAETIAA</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 70 1909 1117 2146; baseline 0.002 -54.247"><span class='ocrx_word' id='word_1_2' title='bbox 70 1984 312 2092; x_wconf 78' lang='grc' dir='ltr'>ΕΕ</span> <span class='ocrx_word' id='word_1_3' title='bbox 310 1916 488 2093; x_wconf 78' lang='lat' dir='ltr'>:DEO</span> <span class='ocrx_word' id='word_1_4' title='bbox 530 1978 645 2093; x_wconf 89' lang='grc' dir='ltr'>ΕΤ</span> <span class='ocrx_word' id='word_1_5' title='bbox 655 1909 1117 2146; x_wconf 78' lang='lat' dir='ltr'>NATURA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 296 2169 1190 2325">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 296 2169 1190 2325">
+     <span class='ocr_line' id='line_1_3' title="bbox 296 2169 1190 2325; baseline -0.012 -27.124"><span class='ocrx_word' id='word_1_6' title='bbox 296 2222 540 2309; x_wconf 42' lang='grc' dir='ltr'>...ΝΝΝΝΝ</span> <span class='ocrx_word' id='word_1_7' title='bbox 584 2169 815 2301; x_wconf 75' lang='grc' dir='ltr'>ΝοΝΝΜ</span> <span class='ocrx_word' id='word_1_8' title='bbox 975 2170 1063 2325; x_wconf 51' lang='lat' dir='ltr'><strong><em>f</em></strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1187 2230 1190 2234; x_wconf 67' lang='grc'>·</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 76 2392 1119 2991">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 76 2392 1119 2896">
+     <span class='ocr_line' id='line_1_4' title="bbox 76 2392 1119 2685; baseline -0.002 -121.963"><span class='ocrx_word' id='word_1_10' title='bbox 76 2414 297 2574; x_wconf 79' lang='grc' dir='ltr'>ΑΝ)</span> <span class='ocrx_word' id='word_1_11' title='bbox 302 2392 500 2609; x_wconf 81' lang='lat' dir='ltr'>Qu</span> <span class='ocrx_word' id='word_1_12' title='bbox 535 2392 698 2559; x_wconf 79' lang='grc' dir='ltr'>ΝΝ</span> <span class='ocrx_word' id='word_1_13' title='bbox 717 2418 777 2556; x_wconf 83' lang='lat' dir='ltr'><strong>T</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 817 2420 1119 2685; x_wconf 81' lang='lat' dir='ltr'>11JM.·5</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 140 2657 1002 2991; baseline 0.001 -127.136"><span class='ocrx_word' id='word_1_15' title='bbox 140 2717 490 2991; x_wconf 74' lang='grc' dir='ltr'>ΝΝΝΝΝ</span> <span class='ocrx_word' id='word_1_16' title='bbox 520 2735 765 2896; x_wconf 60' lang='lat' dir='ltr'>DUM?</span> <span class='ocrx_word' id='word_1_17' title='bbox 782 2657 1002 2947; x_wconf 79' lang='grc' dir='ltr'>ΝΝΝ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1344 4476">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1344 4476">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1344 4476; baseline 0 0"><span class='ocrx_word' id='word_1_18' title='bbox 0 0 1344 4476; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
